@@ -1,0 +1,6 @@
+@tailwind base;
+.canela{
+    font-family: theme('fontFamily.canela')
+}
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,25 @@
+{
+  "artists": [
+    {
+      "name": "Anayancy Gonzalez",
+      "bio": "Yung Chicana Artist that was blessed with stripper’s fairy DUST ♦︎ CHUCA LIFE ♦︎Triple Virgo moon bby♦︎ AKA Dolor de tu corazón ♦︎LA ♦︎ DFW",
+      "link": "https://www.instagram.com/die__yung/tagged/?hl=en",
+      "tag": "photography",
+      "src": "./images/anayancy.JPG"
+    },
+    {
+      "name": "Lauren Rodriguez",
+      "bio": "Latina photographer lorem ipsum",
+      "link": "https://www.instagram.com/lalalalaurn/",
+      "tag":"photography",
+      "src": "./images/lauren.jpg"
+    },
+    {
+        "name": "Ashley Llanes",
+      "bio": "Latina photographer lorem ipsum",
+      "link": "https://www.instagram.com/seldom_followed/",
+      "tag": "photography",
+      "src": "./images/ashley.jpg"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),i=n("Bl7J"),r=n("vrFN");t.default=function(){return c.a.createElement(i.a,null,c.a.createElement(r.a,{keywords:["gatsby","tailwind","react","tailwindcss"],title:"Home"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3d87dbb787a5b107465a.js.map

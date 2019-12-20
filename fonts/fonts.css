@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Canela';
+    src: url('./CanelaWeb-Regular.eot'); /* IE9 Compat Modes */
+    src: url('./CanelaWeb-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('./CanelaWeb-Regular.woff2') format('woff2'), /* Modern Browsers */
+        url('./CanelaWeb-Regular.woff') format('woff'), /* Modern Browsers */
+        url('./CanelaWeb-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('./CanelaWeb-Regular.svg') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}

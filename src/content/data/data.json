@@ -4,22 +4,29 @@
       "name": "Anayancy Gonzalez",
       "bio": "Yung Chicana Artist that was blessed with stripper’s fairy DUST ♦︎ CHUCA LIFE ♦︎Triple Virgo moon bby♦︎ AKA Dolor de tu corazón ♦︎LA ♦︎ DFW",
       "link": "https://www.instagram.com/die__yung/tagged/?hl=en",
-      "tag": "photography",
+      "tag": ["photography"],
       "src": "./images/anayancy.JPG"
     },
     {
       "name": "Lauren Rodriguez",
-      "bio": "Latina photographer lorem ipsum",
+      "bio": "Video Director + Film Photography Seattle, WA",
       "link": "https://www.instagram.com/lalalalaurn/",
-      "tag":"photography",
+      "tag": ["photography", "music", "video"],
       "src": "./images/lauren.jpg"
     },
     {
-        "name": "Ashley Llanes",
-      "bio": "Latina photographer lorem ipsum",
+      "name": "Ashley Llanes",
+      "bio": "DMV Based Photographer from Miami🇨🇺founder of @miami_amigxzine",
       "link": "https://www.instagram.com/seldom_followed/",
-      "tag": "photography",
+      "tag": ["photography"],
       "src": "./images/ashley.jpg"
+    },
+    {
+      "name": "Gabriela Mendez",
+      "bio": "Digital + Film in Miami",
+      "link": "https://www.instagram.com/gabrielamendezphotography/?hl=en",
+      "tag": ["photography"],
+      "src": "./images/gabrielamendez.jpg"
     }
   ]
 }

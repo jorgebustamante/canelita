@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/canelita",
+  pathPrefix: `/canelita`,
   siteMetadata: {
     title: `Canelita`,
     description: `Curation of latina artists`,
@@ -18,13 +18,7 @@ module.exports = {
         icon: `src/content/data/images/redCircle.png`
       }
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     name: `images`,
-    //     path: `${__dirname}/src/images`
-    //   }
-    // },
+   
     `gatsby-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,

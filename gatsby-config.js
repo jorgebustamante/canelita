@@ -2,7 +2,8 @@ module.exports = {
   pathPrefix: `/canelita`,
   siteMetadata: {
     title: `Canelita`,
-    description: `Curation of latina artists`,
+    description: `A Curation of Latinx artists`,
+    image: `src/content/data/images/soldadera.jpg`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,7 +16,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,
         display: `minimal-ui`,
-        icon: `src/content/data/images/redCircle.png`
+        icon: `src/content/data/images/fist.jpg`
       }
     },
    

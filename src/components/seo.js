@@ -10,6 +10,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         siteMetadata {
           title
           description
+          image
         }
       }
     }
@@ -31,6 +32,8 @@ function SEO({ description, lang, meta, keywords, title }) {
           property: `og:title`,
           content: title
         },
+        {property: `og:image`,
+      content: image},
         {
           property: `og:description`,
           content: metaDescription
@@ -41,7 +44,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           name: `twitter:card`,
-          content: `summary`
+          content: `A curation of Latinx artists`
         },
         {
           name: `twitter:title`,

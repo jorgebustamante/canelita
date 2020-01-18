@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"Cuy+":function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),r=a("RMg3");a("vrFN");n.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(r.a,null),l.a.createElement("h2",null,"paulie.j.rodriguez@gmail.com"))}}}]);
-//# sourceMappingURL=component---src-pages-contact-js-27d11ffd481ab7fae80e.js.map
